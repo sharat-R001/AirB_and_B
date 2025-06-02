@@ -61,4 +61,12 @@ This project performs exploratory data analysis (EDA) on Airbnb listings in New 
 
 ---
 
-## Repository Structure
+## Notes
+- All analysis was done in Python using `pandas`, `matplotlib`, `seaborn`, and `numpy`.
+- Outliers were addressed for clarity, but raw data is retained for reference.
+
+---
+
+## License
+This project is open-source under the MIT License.
+
